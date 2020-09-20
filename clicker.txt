@@ -1,0 +1,14 @@
+Let's make a game!
+	name:Bubha Clicker
+	by:Puffy
+	desc:Make as many Bubhas as you can!
+	created:20/9/2020
+	updated:20/9/2020
+	version:1
+
+Settings
+	background:https://orteil.dashnet.org/igm/stuff/meadow.jpg
+	building cost increase:115%
+	building cost refund:50%
+	spritesheet:icons, 48 by 48, stuff/bunnyIcons.png
+	stylesheet:https://orteil.dashnet.org/igm/stuff/bigBlue.css
