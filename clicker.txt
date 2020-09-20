@@ -37,7 +37,7 @@ Shinies
 	*luckyBunny
 		name:Golden Bubha
 		movement:anywhere fade bounce moveRandom
-		frequency:60
+		frequency:5
 		frequency variation:30
 		icon:https://raw.githubusercontent.com/Puffyo/Clicker/master/goldenbubha.png
 		class:bigButton
