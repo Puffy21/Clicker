@@ -20,7 +20,6 @@ Buttons
 		desc:Click this little Bubha to get more Bubhas!
 		on click:anim icon wobble
 		on click:yield 1 Bubha
-		//on click:if (have goldenTouch and chance(1%)) yield 1 goldenEscargot
 		icon:https://raw.githubusercontent.com/Puffyo/Clicker/master/bubha.png
 		no text
 		class:bigButton hasFlares
