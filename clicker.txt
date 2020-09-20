@@ -60,12 +60,12 @@ Buildings
 		icon:icons[3,1]
 		cost:1100
 		on tick:yield 8 Bubhas
-		req:1100
+		req:1100:earned
 	*mine|mines
 		name:Mine
 		desc:A mine
 		icon:icons[3,2]
 		cost:12000
 		on tick:yield 47 Bubhas
-		req:12000
+		req:12000:earned
 	
