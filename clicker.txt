@@ -34,7 +34,7 @@ Resources
 		class:noBackground
 		show earned
 Shinies
-	*luckyBunny
+	*goldenBubha
 		name:Golden Bubha
 		movement:anywhere fade bounce moveRandom
 		frequency:5
