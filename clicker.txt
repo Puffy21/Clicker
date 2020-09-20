@@ -42,3 +42,30 @@ Shinies
 		frequency variation:30
 		icon:https://raw.githubusercontent.com/Puffyo/Clicker/master/goldenbubha.png
 		class:bigButton
+		
+Buildings
+	*TEMPLATE
+		on click:anim glow
+	
+	*worker|workers
+		name:Toad Worker|Toad Workers
+		desc:Toad Workers to Operate the Cloning Machine
+		icon:icons[3,0]
+		cost:100 Bubhas
+		on tick:yield 1 Bubha
+		req:15 Bubhas:earned
+	*farm|farms
+		name:Farm
+		desc:A farm that grows Bubhas out of the ground.
+		icon:icons[3,1]
+		cost:1100
+		on tick:yield 8 Bubhas
+		req:1100
+	*mine|mines
+		name:Mine
+		desc:A mine
+		icon:icons[3,2]
+		cost:12000
+		on tick:yield 47 Bubhas
+		req:12000
+	
