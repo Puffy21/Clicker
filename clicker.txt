@@ -26,3 +26,10 @@ Buttons
 		icon class:shadowed
 		tooltip origin:bottom
 		tooltip class:red
+Resources
+	*Bubha|Bubhas
+		name:Bubha|Bubhas
+		desc:These are your Bubhas. You can use them to purchase things. Your goal is to have as many Bubhas as possible!
+		icon:icons[0,0]
+		class:noBackground
+		show earned
