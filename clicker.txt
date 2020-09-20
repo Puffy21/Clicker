@@ -33,3 +33,11 @@ Resources
 		icon:icons[0,0]
 		class:noBackground
 		show earned
+Shinies
+	*luckyBunny
+		name:Golden Bubha
+		movement:anywhere fade bounce moveRandom
+		frequency:60
+		frequency variation:30
+		icon:https://raw.githubusercontent.com/Puffyo/Clicker/master/goldenbubha.png
+		class:bigButton
