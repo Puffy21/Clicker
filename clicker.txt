@@ -53,7 +53,7 @@ Buildings
 		icon:icons[3,2]
 		cost:100 Bubhas
 		on tick:yield 1 Bubha
-		req:15 Bubhas:earned
+		req:100 Bubhas:earned
 	*farm|farms
 		name:Farm
 		desc:A farm that grows Bubhas out of the ground.
