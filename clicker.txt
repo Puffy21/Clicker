@@ -29,7 +29,7 @@ Buttons
 Resources
 	*Bubha|Bubhas
 		name:Bubha|Bubhas
-		desc:These are your Bubhas. You can use them to purchase things. Your goal is to have as many Bubhas as possible!
+		desc:These are your Bubhas. There are many like them, but these ones are yours.
 		icon:icons[0,0]
 		class:noBackground
 		show earned
