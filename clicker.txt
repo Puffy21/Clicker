@@ -46,7 +46,13 @@ Shinies
 Buildings
 	*TEMPLATE
 		on click:anim glow
-	
+	*clicker|clickers
+		name:Auto Clicker|Auto Clickers
+		desc:A program that automatically clicks. Slowly.
+		icon:icons[3,3]
+		cost:15 Bubhas
+		on tick:yield 0.1 Bubhas
+		req:15 Bubhas:earned
 	*worker|workers
 		name:Toad Worker|Toad Workers
 		desc:Toad Workers to Operate the Cloning Machine
