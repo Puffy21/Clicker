@@ -10,5 +10,5 @@ Settings
 	background:https://orteil.dashnet.org/igm/stuff/meadow.jpg
 	building cost increase:115%
 	building cost refund:50%
-	spritesheet:icons, 48 by 48, stuff/bunnyIcons.png
+	spritesheet:icons, 48 by 48, https://raw.githubusercontent.com/Puffyo/Clicker/master/bubhaicons.png
 	stylesheet:https://orteil.dashnet.org/igm/stuff/bigBlue.css
