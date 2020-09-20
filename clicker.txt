@@ -38,7 +38,7 @@ Shinies
 		name:Golden Bubha
 		movement:anywhere fade bounce moveRandom
 		frequency:5
-		on click: yield (random(100,200)) Bubha
+		on click: yield 100 Bubhas
 		frequency variation:30
 		icon:https://raw.githubusercontent.com/Puffyo/Clicker/master/goldenbubha.png
 		class:bigButton
