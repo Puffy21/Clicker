@@ -25,7 +25,7 @@ Buttons
 		class:bigButton hasFlares
 		icon class:shadowed
 		tooltip origin:bottom
-		tooltip class:red
+		tooltip class:blue
 Resources
 	*Bubha|Bubhas
 		name:Bubha|Bubhas
@@ -42,7 +42,7 @@ Shinies
 		frequency variation:30
 		icon:https://raw.githubusercontent.com/Puffyo/Clicker/master/goldenbubha.png
 		class:bigButton
-		
+
 Buildings
 	*TEMPLATE
 		on click:anim glow
@@ -74,4 +74,3 @@ Buildings
 		cost:12000 Bubhas
 		on tick:yield 47 Bubhas
 		req:12000 Bubhas:earned
-	
